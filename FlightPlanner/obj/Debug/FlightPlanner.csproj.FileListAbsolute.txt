@@ -1,0 +1,14 @@
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\bin\Debug\FlightPlanner.exe.config
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\bin\Debug\FlightPlanner.exe
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\bin\Debug\FlightPlanner.pdb
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\MainWindow.g.cs
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\App.g.cs
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner_MarkupCompile.cache
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner_MarkupCompile.lref
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\MainWindow.baml
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.g.resources
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.Properties.Resources.resources
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.csproj.GenerateResource.Cache
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.exe
+C:\Users\Stiv\Desktop\schoolstuff\cs317\FlightPlanner\FlightPlanner\obj\Debug\FlightPlanner.pdb
